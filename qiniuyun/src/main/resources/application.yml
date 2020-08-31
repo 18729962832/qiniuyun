@@ -1,0 +1,10 @@
+server:
+  port: 8082
+
+# 七牛云存储
+  #oss:
+    #qiniu:
+    #domain: qfpnpavgj.hn-bkt.clouddn.com # 访问域名(默认使用七牛云测试域名)
+    #accessKey: 55xwTXSsQeUNWRo3j5QMueZmufEoBxbVD6-w-WtQ # 公钥
+    #secretKey: aCklohTVijaoSzS7lRd6NvCdvGIG8FC-n9kFjBVW # 私钥
+  #bucketName: liuyingmall  #存储空间名称
